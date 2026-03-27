@@ -7,6 +7,18 @@ OpenSCAD sources for FDM-friendly models. This repo keeps **only `.scad` sources
 A numbered tray for bingo balls: **90 pockets** (10×9), shallow lip so balls stay on the board, engraved title **BINGO EN CASA** on the front strip.
 
 - Source: [`scad/bingo_control_board.scad`](scad/bingo_control_board.scad) — all dimensions and labels are explained in comments at the top of the file.
+- MakerWorld: [Bingo control board](https://makerworld.com/en/models/2549527-bingo-control-board#profileId-2807709)
+
+## Floating base for solar fountain
+
+A floating ring base that keeps small solar fountains centered and stable in pools, bird baths, or garden water features, helping prevent splashing outside the water.
+
+- Source: [`scad/floating_base_for_solar_fountain.scad`](scad/floating_base_for_solar_fountain.scad)
+- MakerWorld: [Floating base for solar fountain](https://makerworld.com/en/models/2579805-floating-base-for-solar-fountain#profileId-2845158)
+- Designed around this fountain size: [Temu reference model](https://www.temu.com/br/goods.html?_bg_fs=1&goods_id=601103652294718)
+- Print note: the model is split in half for bed-size limits; print **2 halves** and glue them together.
+- Optional: add silicone on the seam for better durability and water resistance.
+- No supports required in most typical setups.
 
 ### Preview in the browser
 
