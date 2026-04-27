@@ -20,6 +20,12 @@ A floating ring base that keeps small solar fountains centered and stable in poo
 - Optional: add silicone on the seam for better durability and water resistance.
 - No supports required in most typical setups.
 
+## Tender cap
+
+A thin-walled rectangular cap: internal cavity **~20.4×10.2 mm** (nominal footprint plus clearance), **30 mm** tall walls, **1 mm** walls and **2 mm** floor — useful as a slip-on cover for small rectangular parts.
+
+- Source: [`scad/tender_cap.scad`](scad/tender_cap.scad) — dimensions, wall/floor thickness, and clearance are parameters at the top of the file.
+
 ### Preview in the browser
 
 **[OpenSCAD Playground](https://ochafik.com/openscad2/)** — paste or open the `.scad` file to render and try parameter changes without installing OpenSCAD.
